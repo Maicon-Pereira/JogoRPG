@@ -1,0 +1,15 @@
+C:\Users\chaia\Desktop\JogoRPG\obj\Debug\net6.0\JogoRPG.csproj.AssemblyReference.cache
+C:\Users\chaia\Desktop\JogoRPG\obj\Debug\net6.0\JogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaia\Desktop\JogoRPG\obj\Debug\net6.0\JogoRPG.AssemblyInfoInputs.cache
+C:\Users\chaia\Desktop\JogoRPG\obj\Debug\net6.0\JogoRPG.AssemblyInfo.cs
+C:\Users\chaia\Desktop\JogoRPG\obj\Debug\net6.0\JogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\chaia\Desktop\JogoRPG\bin\Debug\net6.0\JogoRPG.exe
+C:\Users\chaia\Desktop\JogoRPG\bin\Debug\net6.0\JogoRPG.deps.json
+C:\Users\chaia\Desktop\JogoRPG\bin\Debug\net6.0\JogoRPG.runtimeconfig.json
+C:\Users\chaia\Desktop\JogoRPG\bin\Debug\net6.0\JogoRPG.dll
+C:\Users\chaia\Desktop\JogoRPG\bin\Debug\net6.0\JogoRPG.pdb
+C:\Users\chaia\Desktop\JogoRPG\obj\Debug\net6.0\JogoRPG.dll
+C:\Users\chaia\Desktop\JogoRPG\obj\Debug\net6.0\refint\JogoRPG.dll
+C:\Users\chaia\Desktop\JogoRPG\obj\Debug\net6.0\JogoRPG.pdb
+C:\Users\chaia\Desktop\JogoRPG\obj\Debug\net6.0\JogoRPG.genruntimeconfig.cache
+C:\Users\chaia\Desktop\JogoRPG\obj\Debug\net6.0\ref\JogoRPG.dll
